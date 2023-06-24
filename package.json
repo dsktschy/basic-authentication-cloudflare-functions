@@ -1,0 +1,7 @@
+{
+  "name": "basic-authentication-cloudflare-functions",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230518.0",
+    "typescript": "^5.1.3"
+  }
+}
